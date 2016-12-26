@@ -2,6 +2,11 @@
     padding: 1em;
     background-color: #101421;
     color: white;
+    font-family: "SF Mono Light", monospace;
+}
+
+.console-output pre {
+    font-family: "SF Mono Light", monospace;
 }
 
 .console-output a:link {
